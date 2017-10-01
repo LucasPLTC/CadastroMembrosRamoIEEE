@@ -59,9 +59,17 @@ public class Membro {
 		this.ativo = ativo;
 	}
 	
-      
-      
-      
+    public void NovoMembro() {
+    	
+    }
+    
+    public void ModMembro() {
+    	
+    }
+    
+    public void ConMembro() {
+    	
+    }
       
      
 	
