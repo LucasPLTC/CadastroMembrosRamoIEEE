@@ -70,8 +70,10 @@ public class Membro {
     public void ConMembro() {
     	
     }
-      
-     
+       
+    public void addusuario() {
+    	
+    }
 	
 
 }
